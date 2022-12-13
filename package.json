@@ -14,5 +14,14 @@
     "cf-http-client": "^1.3.0",
     "cors": "^2.8.5",
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohit6795/BW-Paytm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mohit6795/BW-Paytm/issues"
+  },
+  "homepage": "https://github.com/Mohit6795/BW-Paytm#readme"
 }
